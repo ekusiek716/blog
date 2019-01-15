@@ -4,7 +4,7 @@ title: "タベリーのグループ機能_仕様書"
 draft: false
 categories: ["Product"]
 description: "タベリーというプロダクトへ、グループ共有機能をリリースするにあたり、作成した仕様書を公開する。"
-eyecatch: "/images/requirement_002.png"
+eyecatch: "/images/requirement_001.png"
 tags: ["Product"]
 author: "Yamotty"
 ---
