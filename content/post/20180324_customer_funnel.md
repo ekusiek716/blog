@@ -4,8 +4,8 @@ title: "タベリーのカスタマーファネルと向き合う"
 draft: false
 categories: ["Product"]
 description: "年末年始に、タベリーというプロダクトをする過程をブログに記載したり、CAREER HACKさんに取材していただいたりした。"
-eyecatch: "/images/top-ogp.jpg"
-tags: ["Product", ""]
+eyecatch: "/images/sample_funnel.png"
+tags: ["Product"]
 author: "Yamotty"
 ---
 

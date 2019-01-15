@@ -5,6 +5,6 @@ draft: true
 categories: ["Product"]
 description: ""
 eyecatch: "/images/top-ogp.jpg"
-tags: ["Product", ""]
+tags: ["Product"]
 author: "Yamotty"
 ---
