@@ -1,2 +1,2 @@
 - BlogのGithub pageを管理するRepositoryです。
-  - [Yamotty](https://yamotty.github.com)
+- cloneしたら ```git submodule update -i --recursive```
