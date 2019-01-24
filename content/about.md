@@ -6,7 +6,12 @@ eyecatch: "/images/profile.png"
 description: "Yamotty(@yamotty3)の自己紹介ページ"
 ---
 
-Yamottyの自己紹介です。<!--more-->
+![Profile](/images/top-ogp.jpg)
+
+2児の父。1987年青森生まれ。東北大学で応用化学修士取得。大学院在学中の2011.3.11に東日本震災で被災。卒業後、丸紅にて資源投資業務、一般社団法人RCFにてGoogle とのイノベーション東北プロジェクト、株式会社スマービー（現・ストライプインターナショナル）にて[ECプロダクト](https://smarby.jp/?utm_source=google&utm_medium=cpc&utm_campaign=01_zisha_tantai&gclid=EAIaIQobChMI-dm-yJyH4AIVRKmWCh3IbQA8EAAYASAAEgIFh_D_BwE)の責任者を務める。スマービーのM&Aを機に株式会社メルカリへ。子会社のソウゾウにてプロダクトマネージャーを務める。
+
+2017年7月に株式会社10X（テンエックス）を創業。東日本大震災の避難時に「火を入れた料理」を通じて精神を快復したこと、また育休中に家族の食事を創り続けた原体験から、「献立と買い物の悩み」を解決するモバイル・アプリケーション「タベリー」をスタートする。本サイトでは私生活や経営を通じて気づいたことについてのエッセイを書き綴っている。
+
 
 ## リンク
 
