@@ -5,7 +5,7 @@ draft: false
 author: "Yamotty"
 categories: ["Essay"]
 description: "この文章は「対象を愛する態度」に対する私自身の強烈な反省から、「愛とはなにか」を見つめ直し、そして自分を変えていきたいという強い気持ちで書いている。"
-eyecatch: "/images/top-ogp.jpg"
+eyecatch: "/images/what-love-is.png"
 tags: ["Essay"]
 ---
 
