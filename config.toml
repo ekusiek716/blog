@@ -4,3 +4,26 @@ title = "Yamotty"
 publishDir = "public"  # 公開ファイルのディレクトリ名
 theme= "tale-hugo" # 使用するテーマ名
 hasCJKLanguage = true # 記事のサマリー機能を有効にする。trueにしないと記事サマリーの文章量が大きくなりすぎる。
+
+[related]
+threshold = 80
+includeNewer = true
+toLower = false
+
+[[related.indices]]
+name = "keywords"
+weight = 150
+
+[[related.indices]]
+name  = "author"
+toLower = true
+weight = 30
+
+[[related.indices]]
+name  = "tags"
+weight = 100
+
+[[related.indices]]
+name  = "date"
+weight = 10
+pattern = "2006"
