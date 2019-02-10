@@ -41,6 +41,12 @@ a {
   color: #4a9ae1;
   text-decoration: none; }
 
+ul {
+  font-size: 1.15rem; }
+
+li {
+  font-size: 1.15rem; }
+
 blockquote {
   border-left: 0.7rem solid #e5e5e5;
   color: #979797;
