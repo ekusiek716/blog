@@ -4,7 +4,7 @@ title: "タベリーのグループ機能_仕様書"
 draft: false
 categories: ["Product"]
 description: "タベリーというプロダクトへ、グループ共有機能をリリースするにあたり、作成した仕様書を公開する。"
-eyecatch: "/images/requirement_003.png"
+eyecatch: "/images/requirement_002.png"
 tags: ["Product"]
 author: "Yamotty"
 ---
@@ -199,4 +199,4 @@ Group Entityが新たに作成。このGroupIdあたりのUserIDが2以上のグ
 
 価値があるのは仕様書ではなく「プロダクトを発明していくプロセス」自体にあり、それは10Xのチームだから再現するものでもある。ので、仕様書は僕らのチームの片鱗を感じてもらえればと思い公開に踏み切った。
 
-繰り返しになるが、10Xのプロセスが気になる、そのなかで力を発揮してみたい、という方はぜひ[こちら](https://10x.co.jp/recruit/)よりご応募下さい。
+繰り返しになるが、10Xのプロセスが気になる、そのなかで力を発揮してみたい、という方はぜひ[こちら](https://10x.co.jp/recruit)よりご応募下さい。
